@@ -9,3 +9,4 @@ input for the CLIP model is the output of some kind of GAN
 - [ ] Train GAN
 - [ ] Train CLIP
 - [ ] merge both of them together
+
