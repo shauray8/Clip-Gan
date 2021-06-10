@@ -1,0 +1,20 @@
+## From the BIG-GAN research paper itself !
+
+We demonstrate that GANs benefit dramatically from scaling, and train models with two to
+four times as many parameters and eight times the batch size
+compared to prior art. Weintroduce two simple, general architectural changes that 
+improve scalability, and modify aregularization scheme to improve conditioning, 
+demonstrably boosting performance.
+
+
+As  a  side  effect  of  our  modifications,  our  models  become  amenable  to  the 
+“truncationtrick,” a simple sampling technique that allows explicit, 
+fine-grained control of the trade-off between sample variety and fidelity.
+
+
+We discover instabilities specific to large scale GANs, and characterize them empirically
+.Leveraging insights from this analysis, we demonstrate that a combination of novel 
+andexisting techniques can reduce these instabilities, but complete training stability 
+can onlybe achieved at a dramatic cost to performance
+
+
